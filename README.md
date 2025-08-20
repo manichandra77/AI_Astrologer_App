@@ -2,6 +2,13 @@
 
 A sophisticated astrology application that provides personalized cosmic insights based on birth details and offers AI-driven astrological guidance.
 
+## 🖼️ UI Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/6857f3ea-90ec-4705-ab2d-0786278fdcda" />
+<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/7ad45977-3346-412b-8fbd-bc2ba2538220" />
+<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/44b0bc4f-c48b-43b0-b501-9aea2bb48c8b" />
+<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/a72a370d-d50e-4131-9df4-0015c08280ca" />
+
 ## ✨ Features
 
 - **Birth Details Collection**: Professional form to capture name, date, time, and place of birth
@@ -47,7 +54,7 @@ The application follows a professional, minimalistic approach with:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/manichandra77/AI_Astrologer_App
 cd cosmic-insight
 ```
 
@@ -101,12 +108,12 @@ src/
 - Validates all required fields
 - Clean, accessible form design with icons
 
-### AstrologyProfile  
+### Astrology Profile  
 - Calculates zodiac sign from birth date
 - Displays personality traits and cosmic insights
 - Shows elemental associations and ruling planets
 
-### QuestionInterface
+### Question Interface
 - Allows users to ask free-text questions
 - Generates contextual astrological responses
 - Incorporates user's birth details in answers
@@ -144,26 +151,6 @@ The app uses a custom design system defined in `index.css` and `tailwind.config.
 - No user tracking or analytics implemented
 - Purely client-side application
 
-## 🚀 Deployment
-
-The application can be deployed to any static hosting service:
-- Vercel
-- Netlify  
-- GitHub Pages
-- AWS S3 + CloudFront
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🔮 Future Enhancements
 
 Potential improvements could include:
@@ -176,5 +163,3 @@ Potential improvements could include:
 - Advanced AI integration
 
 ---
-
-*Built with ❤️ and guided by the stars*
